@@ -1,0 +1,86 @@
+[
+  {
+    "value": "peanut",
+    "synonyms": [
+      "peanut"
+    ]
+  },
+  {
+    "value": "hazelnut",
+    "synonyms": [
+      "hazelnut"
+    ]
+  },
+  {
+    "value": "milk",
+    "synonyms": [
+      "milk"
+    ]
+  },
+  {
+    "value": "tomato",
+    "synonyms": [
+      "tomato"
+    ]
+  },
+  {
+    "value": "wheat",
+    "synonyms": [
+      "wheat"
+    ]
+  },
+  {
+    "value": "tree nuts",
+    "synonyms": [
+      "tree nuts"
+    ]
+  },
+  {
+    "value": "seedless fruit",
+    "synonyms": [
+      "seedless fruit"
+    ]
+  },
+  {
+    "value": "ripe lemon",
+    "synonyms": [
+      "ripe lemon"
+    ]
+  },
+  {
+    "value": "green pepper",
+    "synonyms": [
+      "green pepper"
+    ]
+  },
+  {
+    "value": "red pepper",
+    "synonyms": [
+      "red pepper"
+    ]
+  },
+  {
+    "value": "yellow pepper",
+    "synonyms": [
+      "yellow pepper"
+    ]
+  },
+  {
+    "value": "jalapeno pepper",
+    "synonyms": [
+      "jalapeno pepper"
+    ]
+  },
+  {
+    "value": "green apple",
+    "synonyms": [
+      "green apple"
+    ]
+  },
+  {
+    "value": "green onion",
+    "synonyms": [
+      "green onion"
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "id": "88fdbc2f-4006-4ba9-a6f9-97abfde651f3",
+    "data": [
+      {
+        "text": "Can I eat ",
+        "userDefined": false
+      },
+      {
+        "text": "Hersheys Chocolate",
+        "alias": "Food",
+        "meta": "@Food",
+        "userDefined": false
+      },
+      {
+        "text": " if I\u0027m allergic to ",
+        "userDefined": false
+      },
+      {
+        "text": "milk",
+        "alias": "Allergy",
+        "meta": "@Allergy",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540129558
+  },
+  {
+    "id": "f991aeea-5250-4abd-bcb8-5bf55f581870",
+    "data": [
+      {
+        "text": "Is there any ",
+        "userDefined": false
+      },
+      {
+        "text": "wheat",
+        "alias": "Allergy",
+        "meta": "@Allergy",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Sour Patch Kids",
+        "alias": "Food",
+        "meta": "@Food",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540124909
+  },
+  {
+    "id": "e7d7186c-47c7-49e5-8643-92ff35aff067",
+    "data": [
+      {
+        "text": "Can I eat ",
+        "userDefined": false
+      },
+      {
+        "text": "payday",
+        "alias": "Food",
+        "meta": "@Food",
+        "userDefined": false
+      },
+      {
+        "text": " if I\u0027m allergic to ",
+        "userDefined": false
+      },
+      {
+        "text": "milk",
+        "alias": "Allergy",
+        "meta": "@Allergy",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540124708
+  },
+  {
+    "id": "2a9d05b7-631c-40f2-ab61-16428011693f",
+    "data": [
+      {
+        "text": "Can I eat ",
+        "userDefined": false
+      },
+      {
+        "text": "Sour Patch Kids",
+        "alias": "Food",
+        "meta": "@Food",
+        "userDefined": false
+      },
+      {
+        "text": " if I\u0027m allergic to ",
+        "userDefined": false
+      },
+      {
+        "text": "wheat",
+        "alias": "Allergy",
+        "meta": "@Allergy",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540124708
+  },
+  {
+    "id": "3300da92-34e1-4842-9b59-b643e0d00450",
+    "data": [
+      {
+        "text": "Can I eat ",
+        "userDefined": false
+      },
+      {
+        "text": "Hersheys",
+        "alias": "Food",
+        "meta": "@Food",
+        "userDefined": false
+      },
+      {
+        "text": " if I\u0027m allergic to ",
+        "userDefined": false
+      },
+      {
+        "text": "peanut",
+        "alias": "Allergy",
+        "meta": "@Allergy",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540124708
+  },
+  {
+    "id": "9096eb05-e9a6-44e8-833d-26e4adfd925f",
+    "data": [
+      {
+        "text": "Is there any ",
+        "userDefined": false
+      },
+      {
+        "text": "peanut",
+        "alias": "Allergy",
+        "meta": "@Allergy",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Hersheys",
+        "alias": "Food",
+        "meta": "@Food",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540121518
+  },
+  {
+    "id": "ea1833b5-b2a0-4726-9cb8-4c41db78c37a",
+    "data": [
+      {
+        "text": "Is there any ",
+        "userDefined": false
+      },
+      {
+        "text": "milk",
+        "alias": "Allergy",
+        "meta": "@Allergy",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "payday",
+        "alias": "Food",
+        "meta": "@Food",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540121518
+  },
+  {
+    "id": "f152794e-03d8-4b69-af0c-e235c0cb2605",
+    "data": [
+      {
+        "text": "Is there ",
+        "userDefined": false
+      },
+      {
+        "text": "wheat",
+        "alias": "Allergy",
+        "meta": "@Allergy",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Sour Patch Kids",
+        "alias": "Food",
+        "meta": "@Food",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540117588
+  },
+  {
+    "id": "2b3dff2a-a700-4b65-8a42-7bd8e41c8e0f",
+    "data": [
+      {
+        "text": "I\u0027m allergic to ",
+        "userDefined": false
+      },
+      {
+        "text": "tomato",
+        "alias": "Allergy",
+        "meta": "@Allergy",
+        "userDefined": false
+      },
+      {
+        "text": ". Can I eat ",
+        "userDefined": false
+      },
+      {
+        "text": "Mountain Dew",
+        "alias": "Food",
+        "meta": "@Food",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540117528
+  },
+  {
+    "id": "31735b09-9e2e-4bec-b705-d768f1286d7b",
+    "data": [
+      {
+        "text": "I\u0027m allergic to ",
+        "userDefined": false
+      },
+      {
+        "text": "hazelnut",
+        "alias": "Allergy",
+        "meta": "@Allergy",
+        "userDefined": false
+      },
+      {
+        "text": ". Can I eat ",
+        "userDefined": false
+      },
+      {
+        "text": "Nutella",
+        "alias": "Food",
+        "meta": "@Food",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540117411
+  },
+  {
+    "id": "668e9a02-7ccd-4507-ba12-2938b85b4213",
+    "data": [
+      {
+        "text": "Is there ",
+        "userDefined": false
+      },
+      {
+        "text": "milk",
+        "alias": "Allergy",
+        "meta": "@Allergy",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "payday",
+        "alias": "Food",
+        "meta": "@Food",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540117302
+  },
+  {
+    "id": "6180e7ba-9b32-4f88-8df9-5042e8f40c76",
+    "data": [
+      {
+        "text": "Is there ",
+        "userDefined": false
+      },
+      {
+        "text": "peanut",
+        "alias": "Allergy",
+        "meta": "@Allergy",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Hersheys",
+        "alias": "Food",
+        "meta": "@Food",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540119984
+  }
+]

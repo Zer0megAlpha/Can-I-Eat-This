@@ -1,0 +1,32 @@
+{
+  "id": "55c349dd-dc26-4849-810d-6173745cbf6d",
+  "name": "Default Fallback Intent",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I didn\u0027t understand. Can you try again? You can say things like \"Is there milk in cheetos?\" to know if ingredients that cause allergies exist in certain foods.",
+            "I don\u0027t understand what you\u0027re saying, you can say things like \"Is there milk in cheetos?\" to know if ingredients that cause allergies exist in certain foods."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540133489,
+  "fallbackIntent": true,
+  "events": []
+}

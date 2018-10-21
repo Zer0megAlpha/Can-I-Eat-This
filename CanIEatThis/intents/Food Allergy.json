@@ -1,0 +1,71 @@
+{
+  "id": "d9815d7d-c08a-4343-a8da-c018a1791e27",
+  "name": "Food Allergy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d76caf94-a158-42d1-b463-b29645447872",
+          "required": true,
+          "dataType": "@Allergy",
+          "name": "Allergy",
+          "value": "$Allergy",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What allergy do you want to check for?"
+            },
+            {
+              "lang": "en",
+              "value": "What are you allergic of?"
+            },
+            {
+              "lang": "en",
+              "value": "What is the allergy?"
+            },
+            {
+              "lang": "en",
+              "value": "What allergy do you have?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "12afe82c-7ea1-41eb-8b57-86ff279991a0",
+          "required": true,
+          "dataType": "@Food",
+          "name": "Food",
+          "value": "$Food",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What food are you trying to check for allergies?"
+            },
+            {
+              "lang": "en",
+              "value": "What food are you checking for allergies?"
+            },
+            {
+              "lang": "en",
+              "value": "What food should be checked for allergies?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540129558,
+  "fallbackIntent": false,
+  "events": []
+}
